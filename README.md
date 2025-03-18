@@ -72,4 +72,4 @@ make
 
 ## 6. 문의 및 지원
 
-이 프로젝트와 관련된 문의는 [이메일](seungwoo7050@gmail.com) 또는 GitHub Issues를 통해 문의해주세요.
+이 프로젝트와 관련된 문의는 `seungwoo7050 [at] gmail [dot] com` 또는 GitHub Issues를 통해 문의해주세요.
