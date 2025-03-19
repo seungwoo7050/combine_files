@@ -56,11 +56,17 @@ ls -l combine_files
 
 위 명령어는 현재 디렉터리에서 `.md` 파일을 찾아 `result.txt`로 병합하며, 자세한 로그를 출력합니다.
 
-## 4. 라이선스
+## 4. Doxygen 문서 보기 📄 
+
+프로젝트의 Doxygen 문서는 GitHub Pages에서 볼 수 있습니다.  
+
+🔗 **[문서 보기](https://seungwoo7050.github.io/combine_files/)**
+
+## 5. 라이선스
 
 이 프로젝트는 MIT 라이선스를 따르며, 자유롭게 사용, 수정, 배포할 수 있습니다.
 
-## 5. 기여 방법
+## 6. 기여 방법
 
 프로젝트 개선을 위해 PR(Pull Request) 환영합니다. 버그 리포트 또는 기능 요청은 Issues에 등록해주세요.
 
@@ -70,6 +76,6 @@ make
 ./combine_files --help
 ```
 
-## 6. 문의 및 지원
+## 7. 문의 및 지원
 
 이 프로젝트와 관련된 문의는 `seungwoo7050 [at] gmail [dot] com` 또는 GitHub Issues를 통해 문의해주세요.
